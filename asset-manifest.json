@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/signets-ex4-solution/static/css/main.635ed7df.chunk.css",
+    "main.js": "/signets-ex4-solution/static/js/main.8bc484f6.chunk.js",
+    "runtime-main.js": "/signets-ex4-solution/static/js/runtime-main.ed83c745.js",
+    "static/css/2.6da788ff.chunk.css": "/signets-ex4-solution/static/css/2.6da788ff.chunk.css",
+    "static/js/2.d47e1271.chunk.js": "/signets-ex4-solution/static/js/2.d47e1271.chunk.js",
+    "index.html": "/signets-ex4-solution/index.html",
+    "static/js/2.d47e1271.chunk.js.LICENSE.txt": "/signets-ex4-solution/static/js/2.d47e1271.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "/signets-ex4-solution/static/media/couverture.2dc9ece9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed83c745.js",
+    "static/css/2.6da788ff.chunk.css",
+    "static/js/2.d47e1271.chunk.js",
+    "static/css/main.635ed7df.chunk.css",
+    "static/js/main.8bc484f6.chunk.js"
+  ]
+}
